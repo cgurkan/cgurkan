@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Cem
+
+🌱 I’m currently learning Large Language Models.
 
 <!--
 **cgurkan/cgurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
