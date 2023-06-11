@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Cem
 
-🌱 I’m currently learning Large Language Models.
+Software Developer/Architect/Manager, Enterprise Architect & Data Expert
+
+- 🔭 I’m currently working on Data Architectures, Data Quality
+- 🌱 I’m currently learning Large Language Models.
 
 <!--
 **cgurkan/cgurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
